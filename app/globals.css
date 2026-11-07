@@ -40,27 +40,85 @@ body {
   text-transform: uppercase;
 }
 
-.marquee-word {
-  color: #191a1b;
-  font-size: clamp(2.8rem, 8.3vw, 7.7rem);
-  font-style: italic;
-  font-weight: 800;
-  letter-spacing: 0.015em;
-  line-height: 1;
-  white-space: nowrap;
+.line-marquee {
+  position: relative;
+  height: clamp(5.5rem, 12vw, 10rem);
+  overflow: hidden;
+  isolation: isolate;
+  opacity: 0.76;
+  transition: opacity 400ms ease;
 }
 
-.marquee-word:nth-child(even) {
-  color: transparent;
-  -webkit-text-stroke: 1px #191a1b;
+.line-marquee::before,
+.line-marquee::after {
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  bottom: 0;
+  width: 12%;
+  content: "";
+  pointer-events: none;
 }
 
-.marquee-track {
-  animation: marquee 42s linear infinite;
+.line-marquee::before {
+  left: 0;
+  background: linear-gradient(90deg, #f7f7f5, transparent);
 }
 
-.marquee:hover .marquee-track {
-  animation-play-state: paused;
+.line-marquee::after {
+  right: 0;
+  background: linear-gradient(270deg, #f7f7f5, transparent);
+}
+
+.line-marquee:hover {
+  opacity: 1;
+}
+
+.line-marquee-track {
+  position: absolute;
+  inset: 0 auto 0 0;
+  display: flex;
+  width: max-content;
+  height: 100%;
+  animation: line-drift 54s linear infinite;
+}
+
+.line-marquee-track svg {
+  width: clamp(32rem, 70vw, 58rem);
+  height: 100%;
+  flex: none;
+  overflow: visible;
+  fill: none;
+  stroke: #b6b8b4;
+  stroke-width: 1;
+  vector-effect: non-scaling-stroke;
+  transform-origin: center;
+  transition: stroke 400ms ease, stroke-width 400ms ease, transform 600ms ease;
+}
+
+.line-marquee-track svg path:nth-child(even) {
+  stroke: #d3d4d0;
+}
+
+.line-marquee-track-reverse {
+  animation-name: line-drift-reverse;
+  animation-duration: 68s;
+  opacity: 0.7;
+}
+
+.line-marquee-track-reverse svg {
+  stroke: #cacbc7;
+  stroke-width: 0.8;
+}
+
+.line-marquee:hover .line-marquee-track {
+  animation-duration: 36s;
+}
+
+.line-marquee:hover .line-marquee-track svg {
+  stroke: #898c88;
+  stroke-width: 1.2;
+  transform: scaleY(1.04);
 }
 
 .image-mat {
@@ -71,12 +129,21 @@ body {
   background-color: #e9eae7;
 }
 
-@keyframes marquee {
+@keyframes line-drift {
   from {
     transform: translateX(0);
   }
   to {
     transform: translateX(-50%);
+  }
+}
+
+@keyframes line-drift-reverse {
+  from {
+    transform: translateX(-50%);
+  }
+  to {
+    transform: translateX(0);
   }
 }
 
