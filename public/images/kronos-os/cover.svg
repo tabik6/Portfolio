@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 810">
+  <defs>
+    <linearGradient id="desk" x2="0" y2="1"><stop stop-color="#dfe1df"/><stop offset="1" stop-color="#b9bbb8"/></linearGradient>
+    <linearGradient id="screen" x2="1" y2="1"><stop stop-color="#22282d"/><stop offset="1" stop-color="#111416"/></linearGradient>
+  </defs>
+  <rect width="1440" height="810" fill="#e7e8e5"/>
+  <rect y="638" width="1440" height="172" fill="url(#desk)"/>
+  <rect x="134" y="106" width="1172" height="526" rx="8" fill="#242729"/>
+  <rect x="153" y="125" width="1134" height="482" fill="url(#screen)"/>
+  <rect x="153" y="125" width="1134" height="32" fill="#292e32"/>
+  <circle cx="174" cy="141" r="5" fill="#8d918f"/><circle cx="191" cy="141" r="5" fill="#686d6b"/>
+  <text x="219" y="145" fill="#e2e4e0" font-family="Arial" font-size="12">KRONOS / WORKSPACE 04</text>
+  <text x="1151" y="145" fill="#9ea4a1" font-family="Arial" font-size="11">THU 14:32  ·  24°C</text>
+  <rect x="177" y="184" width="238" height="397" fill="#1b2023"/>
+  <text x="199" y="222" fill="#eef0ec" font-family="Arial" font-size="20" font-weight="bold">Good afternoon.</text>
+  <text x="199" y="250" fill="#87908d" font-family="Arial" font-size="12">THURSDAY, OCTOBER 24</text>
+  <rect x="199" y="282" width="192" height="1" fill="#3b4142"/>
+  <text x="199" y="318" fill="#aeb4b0" font-family="Arial" font-size="12">FOCUS SESSION</text>
+  <text x="199" y="356" fill="#f3f4f1" font-family="Arial" font-size="30">02:48:16</text>
+  <text x="199" y="389" fill="#909995" font-family="Arial" font-size="12">Design system / v2.4</text>
+  <rect x="199" y="424" width="192" height="1" fill="#3b4142"/>
+  <text x="199" y="459" fill="#aeb4b0" font-family="Arial" font-size="12">WORKSPACES</text>
+  <text x="199" y="491" fill="#e3e5e1" font-family="Arial" font-size="13">01  Product research</text>
+  <text x="199" y="520" fill="#7e8783" font-family="Arial" font-size="13">02  Interface explorations</text>
+  <text x="199" y="549" fill="#7e8783" font-family="Arial" font-size="13">03  Motion studies</text>
+  <rect x="443" y="184" width="816" height="181" fill="#202629"/>
+  <text x="474" y="219" fill="#9da5a2" font-family="Arial" font-size="12">CURRENT PROJECT</text>
+  <text x="474" y="269" fill="#f1f2ef" font-family="Arial" font-size="40" font-weight="bold">Quiet systems,</text>
+  <text x="474" y="316" fill="#f1f2ef" font-family="Arial" font-size="40" font-weight="bold">clear thinking.</text>
+  <rect x="1058" y="222" width="164" height="104" fill="#343a3c"/>
+  <text x="1080" y="257" fill="#c6cbc7" font-family="Arial" font-size="11">TASKS COMPLETED</text>
+  <text x="1080" y="301" fill="#fff" font-family="Arial" font-size="35">18 <tspan fill="#8c9591" font-size="14">/ 24</tspan></text>
+  <rect x="443" y="385" width="393" height="196" fill="#292f32"/>
+  <text x="470" y="418" fill="#aab1ae" font-family="Arial" font-size="12">WEEKLY ACTIVITY</text>
+  <path d="M470 536h336M470 497h336M470 458h336" stroke="#42494b" stroke-width="1"/>
+  <path d="M477 523l48-33 47 15 50-52 48 31 50-20 50 25 44-50" fill="none" stroke="#d7dcd7" stroke-width="3"/>
+  <rect x="854" y="385" width="405" height="196" fill="#292f32"/>
+  <text x="880" y="418" fill="#aab1ae" font-family="Arial" font-size="12">RECENT FILES</text>
+  <text x="880" y="458" fill="#e0e3df" font-family="Arial" font-size="13">Interface / command-center.fig</text>
+  <text x="880" y="490" fill="#929b97" font-family="Arial" font-size="12">Today, 13:42  ·  8.4 MB</text>
+  <path d="M880 507h345" stroke="#42494b"/>
+  <text x="880" y="539" fill="#e0e3df" font-family="Arial" font-size="13">System / type-scale.fig</text>
+  <text x="880" y="562" fill="#929b97" font-family="Arial" font-size="12">Yesterday  ·  2.1 MB</text>
+  <path d="M720 640v80h-70v17h140v-17h-70v-80" fill="#8d908c"/>
+  <rect x="90" y="748" width="1260" height="12" rx="6" fill="#a1a39f" opacity=".55"/>
+</svg>

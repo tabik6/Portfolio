@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675">
+  <rect width="900" height="675" fill="#e5e4de"/>
+  <rect x="52" y="48" width="796" height="579" fill="#f7f6f1"/>
+  <text x="92" y="96" fill="#20211e" font-family="Arial" font-size="13" font-weight="bold" letter-spacing="2">SYNTAX / SPECIMEN 01</text>
+  <text x="700" y="96" fill="#797a73" font-family="Arial" font-size="11">DISPLAY / 2022</text>
+  <path d="M92 117h716" stroke="#d4d3cb"/>
+  <text x="92" y="232" fill="#191a18" font-family="Arial" font-size="90" font-weight="bold">Sphinx</text>
+  <text x="95" y="271" fill="#565750" font-family="Arial" font-size="17">The quick brown fox jumps over the lazy dog.</text>
+  <path d="M92 300h716" stroke="#d4d3cb"/>
+  <text x="95" y="344" fill="#74756d" font-family="Arial" font-size="11" letter-spacing="2">WEIGHT SPECTRUM</text>
+  <text x="95" y="397" fill="#20211e" font-family="Arial" font-size="37" font-weight="normal">Aa  Regular</text>
+  <text x="95" y="444" fill="#20211e" font-family="Arial" font-size="37" font-weight="bold">Aa  Semibold</text>
+  <text x="95" y="491" fill="#20211e" font-family="Arial" font-size="37" font-weight="bold">Aa  Bold</text>
+  <path d="M92 519h716" stroke="#d4d3cb"/>
+  <text x="95" y="561" fill="#74756d" font-family="Arial" font-size="11" letter-spacing="2">CHARACTER SET</text>
+  <text x="95" y="594" fill="#44453f" font-family="Arial" font-size="14">ABCDEFGHIJKLMNOPQRSTUVWXYZ  /  0123456789  /  &amp; @ # ? !</text>
+</svg>

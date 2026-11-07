@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675">
+  <rect width="900" height="675" fill="#e7e9e9"/>
+  <rect x="72" y="54" width="756" height="567" fill="#f1f2f1"/>
+  <rect x="132" y="128" width="636" height="419" rx="8" fill="#fafbfa" stroke="#d9dcda"/>
+  <text x="170" y="174" fill="#7e8581" font-family="Arial" font-size="13">⌘   SEARCH ANYTHING</text>
+  <path d="M166 194h568" stroke="#dedfdd"/>
+  <rect x="151" y="215" width="598" height="48" rx="4" fill="#1d2020"/>
+  <text x="176" y="245" fill="#f5f6f2" font-family="Arial" font-size="15">▦  Open dashboard</text>
+  <text x="685" y="245" fill="#a3a8a4" font-family="Arial" font-size="12">⌘ D</text>
+  <text x="176" y="300" fill="#444946" font-family="Arial" font-size="15">◷  Recent projects</text>
+  <text x="685" y="300" fill="#969c98" font-family="Arial" font-size="12">⌘ R</text>
+  <path d="M171 319h558" stroke="#e5e7e4"/>
+  <text x="176" y="358" fill="#444946" font-family="Arial" font-size="15">⚙  System preferences</text>
+  <text x="685" y="358" fill="#969c98" font-family="Arial" font-size="12">⌘ ,</text>
+  <text x="176" y="411" fill="#444946" font-family="Arial" font-size="15">⌘  Manage shortcuts</text>
+  <text x="685" y="411" fill="#969c98" font-family="Arial" font-size="12">⌘ K</text>
+  <rect x="173" y="466" width="554" height="1" fill="#e5e7e4"/>
+  <text x="176" y="505" fill="#929894" font-family="Arial" font-size="12">Navigate your workspace with a few keystrokes.</text>
+</svg>

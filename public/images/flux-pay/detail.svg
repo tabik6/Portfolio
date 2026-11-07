@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675">
+  <rect width="900" height="675" fill="#e8e9e6"/>
+  <rect x="54" y="52" width="792" height="571" fill="#fff"/>
+  <text x="92" y="102" fill="#202321" font-family="Arial" font-size="19" font-weight="bold">flux / pay</text>
+  <text x="92" y="169" fill="#7d837e" font-family="Arial" font-size="11" letter-spacing="1">TRANSACTION ACTIVITY</text>
+  <text x="92" y="210" fill="#222523" font-family="Arial" font-size="31" font-weight="bold">All payments</text>
+  <rect x="92" y="240" width="716" height="52" fill="#f2f4f1"/>
+  <text x="113" y="271" fill="#737a74" font-family="Arial" font-size="11">Search payments...</text>
+  <text x="593" y="271" fill="#737a74" font-family="Arial" font-size="11">Last 30 days</text>
+  <path d="M92 319h716M92 365h716M92 411h716M92 457h716M92 503h716M92 549h716M92 595h716" stroke="#e9ebe8"/>
+  <text x="108" y="345" fill="#888e89" font-family="Arial" font-size="10">CUSTOMER</text><text x="330" y="345" fill="#888e89" font-family="Arial" font-size="10">DATE</text><text x="493" y="345" fill="#888e89" font-family="Arial" font-size="10">STATUS</text><text x="699" y="345" fill="#888e89" font-family="Arial" font-size="10">AMOUNT</text>
+  <text x="108" y="394" fill="#343a35" font-family="Arial" font-size="12">Maya Putri</text><text x="330" y="394" fill="#676e68" font-family="Arial" font-size="12">Mar 12, 2024</text><text x="493" y="394" fill="#526f5d" font-family="Arial" font-size="11">●  Succeeded</text><text x="699" y="394" fill="#343a35" font-family="Arial" font-size="12">$240.00</text>
+  <text x="108" y="440" fill="#343a35" font-family="Arial" font-size="12">Arif Nugraha</text><text x="330" y="440" fill="#676e68" font-family="Arial" font-size="12">Mar 12, 2024</text><text x="493" y="440" fill="#526f5d" font-family="Arial" font-size="11">●  Succeeded</text><text x="699" y="440" fill="#343a35" font-family="Arial" font-size="12">$86.50</text>
+  <text x="108" y="486" fill="#343a35" font-family="Arial" font-size="12">Nadia Pratama</text><text x="330" y="486" fill="#676e68" font-family="Arial" font-size="12">Mar 11, 2024</text><text x="493" y="486" fill="#947a4c" font-family="Arial" font-size="11">●  Processing</text><text x="699" y="486" fill="#343a35" font-family="Arial" font-size="12">$1,240.00</text>
+  <text x="108" y="532" fill="#343a35" font-family="Arial" font-size="12">Raka Wijaya</text><text x="330" y="532" fill="#676e68" font-family="Arial" font-size="12">Mar 11, 2024</text><text x="493" y="532" fill="#526f5d" font-family="Arial" font-size="11">●  Succeeded</text><text x="699" y="532" fill="#343a35" font-family="Arial" font-size="12">$540.00</text>
+  <text x="108" y="578" fill="#343a35" font-family="Arial" font-size="12">Putri Andini</text><text x="330" y="578" fill="#676e68" font-family="Arial" font-size="12">Mar 10, 2024</text><text x="493" y="578" fill="#526f5d" font-family="Arial" font-size="11">●  Succeeded</text><text x="699" y="578" fill="#343a35" font-family="Arial" font-size="12">$128.00</text>
+</svg>

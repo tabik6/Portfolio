@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 810">
+  <rect width="1440" height="810" fill="#e4e3de"/>
+  <rect x="60" y="52" width="1320" height="706" fill="#f5f4ef"/>
+  <text x="104" y="101" fill="#20211e" font-family="Arial" font-size="15" font-weight="bold">SYNTAX / VARIABLE TYPE SPECIMEN</text>
+  <text x="1075" y="101" fill="#777870" font-family="Arial" font-size="11" letter-spacing="2">VOL. 01 — 2022</text>
+  <path d="M104 121h1232" stroke="#c9c8c0"/>
+  <text x="104" y="205" fill="#191a18" font-family="Arial" font-size="92" font-weight="bold">Aa Bb Gg</text>
+  <text x="1090" y="164" fill="#555650" font-family="Arial" font-size="13">WEIGHT</text>
+  <text x="1090" y="194" fill="#232420" font-family="Arial" font-size="16">Regular — Bold</text>
+  <path d="M104 235h1232" stroke="#c9c8c0"/>
+  <text x="104" y="285" fill="#32332f" font-family="Arial" font-size="15">A variable type family for expressive digital spaces.</text>
+  <text x="104" y="318" fill="#777870" font-family="Arial" font-size="13">Designed to shift between precise utility and confident display.</text>
+  <rect x="104" y="350" width="790" height="300" fill="#eeede7"/>
+  <text x="139" y="412" fill="#1e1f1c" font-family="Arial" font-size="14" letter-spacing="2">GLYPH STUDY / 01</text>
+  <text x="139" y="522" fill="#191a18" font-family="Arial" font-size="91" font-weight="bold">Ag</text>
+  <text x="390" y="455" fill="#32332f" font-family="Arial" font-size="20">Aa Bb Cc Dd Ee Ff Gg</text>
+  <text x="390" y="493" fill="#32332f" font-family="Arial" font-size="20">Hh Ii Jj Kk Ll Mm Nn Oo</text>
+  <text x="390" y="531" fill="#32332f" font-family="Arial" font-size="20">Pp Qq Rr Ss Tt Uu Vv</text>
+  <text x="390" y="569" fill="#32332f" font-family="Arial" font-size="20">Ww Xx Yy Zz 0123456789</text>
+  <rect x="916" y="350" width="420" height="300" fill="#f8f7f3" stroke="#d6d5cd"/>
+  <text x="950" y="392" fill="#73746c" font-family="Arial" font-size="12" letter-spacing="2">TYPE TESTER</text>
+  <text x="950" y="465" fill="#20211e" font-family="Arial" font-size="52" font-weight="bold">Syntax</text>
+  <path d="M950 488h350" stroke="#d6d5cd"/>
+  <text x="950" y="523" fill="#44453f" font-family="Arial" font-size="12">SIZE  /  48 PX</text>
+  <text x="950" y="553" fill="#44453f" font-family="Arial" font-size="12">WEIGHT  /  600</text>
+  <text x="950" y="583" fill="#44453f" font-family="Arial" font-size="12">TRACKING  /  -0.02</text>
+  <path d="M104 680h1232" stroke="#c9c8c0"/>
+  <text x="104" y="713" fill="#797a73" font-family="Arial" font-size="11" letter-spacing="2">A TOOL FOR TYPE EXPLORATION — RODLYTA ITTABI ULYA</text>
+</svg>

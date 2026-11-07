@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 810">
+  <rect width="1440" height="810" fill="#d7d6d1"/>
+  <rect x="0" y="0" width="1440" height="810" fill="#cecdc7"/>
+  <g transform="rotate(-3 440 380)">
+    <rect x="126" y="90" width="650" height="610" fill="#f3f2ed"/>
+    <text x="184" y="158" fill="#676964" font-family="Arial" font-size="13" letter-spacing="4">MONO STUDIO / ARCHITECTURE</text>
+    <path d="M184 182h523" stroke="#b9bab3"/>
+    <text x="184" y="313" fill="#191a18" font-family="Arial" font-size="86" font-weight="bold">MONO</text>
+    <text x="184" y="396" fill="#191a18" font-family="Arial" font-size="86" font-weight="bold">STUDIO</text>
+    <text x="184" y="449" fill="#6a6c66" font-family="Arial" font-size="17" letter-spacing="4">ARCHITECTURAL PRACTICE</text>
+    <path d="M184 492h523" stroke="#b9bab3"/>
+    <text x="184" y="534" fill="#777973" font-family="Arial" font-size="13">FORM FOLLOWS PURPOSE.</text>
+    <text x="184" y="659" fill="#777973" font-family="Arial" font-size="11" letter-spacing="2">IDENTITY STUDY / 2023</text>
+  </g>
+  <g transform="rotate(4 977 405)">
+    <rect x="832" y="102" width="457" height="580" fill="#252624"/>
+    <rect x="850" y="120" width="421" height="544" fill="#ecebe4"/>
+    <text x="882" y="165" fill="#797a73" font-family="Arial" font-size="10" letter-spacing="3">M / S — 014</text>
+    <path d="M882 182h356" stroke="#c3c2b9"/>
+    <text x="882" y="268" fill="#1a1a18" font-family="Arial" font-size="55" font-weight="bold">M</text>
+    <text x="882" y="336" fill="#1a1a18" font-family="Arial" font-size="55" font-weight="bold">S</text>
+    <path d="M882 370h356" stroke="#c3c2b9"/>
+    <text x="882" y="410" fill="#50514c" font-family="Arial" font-size="13">GROTESK / MEDIUM</text>
+    <text x="882" y="446" fill="#50514c" font-family="Arial" font-size="13">SPACING / 08 · 16 · 24</text>
+    <rect x="882" y="483" width="356" height="125" fill="#e2e1d9"/>
+    <text x="907" y="536" fill="#2c2d29" font-family="Arial" font-size="26">A considered</text>
+    <text x="907" y="572" fill="#2c2d29" font-family="Arial" font-size="26">way of living.</text>
+  </g>
+  <rect x="596" y="521" width="217" height="137" fill="#20211e" transform="rotate(3 596 521)"/>
+  <rect x="606" y="531" width="197" height="117" fill="#f4f2ec" transform="rotate(3 606 531)"/>
+  <text x="630" y="581" fill="#1d1e1b" font-family="Arial" font-size="26" font-weight="bold" transform="rotate(3 630 581)">M / S</text>
+  <text x="630" y="608" fill="#696a64" font-family="Arial" font-size="10" letter-spacing="2" transform="rotate(3 630 608)">MONO STUDIO</text>
+</svg>

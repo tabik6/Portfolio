@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 810">
+  <rect width="1440" height="810" fill="#e8e9e6"/>
+  <rect y="620" width="1440" height="190" fill="#d6d4ce"/>
+  <rect x="181" y="106" width="1078" height="536" rx="14" fill="#292b2c"/>
+  <rect x="201" y="126" width="1038" height="496" fill="#f7f8f6"/>
+  <rect x="201" y="126" width="1038" height="44" fill="#fff"/>
+  <text x="231" y="155" fill="#181a19" font-family="Arial" font-size="16" font-weight="bold">flux / pay</text>
+  <text x="981" y="155" fill="#696e6a" font-family="Arial" font-size="12">Overview     Payments     Customers     Settings</text>
+  <circle cx="1200" cy="148" r="13" fill="#e9ece8"/>
+  <rect x="231" y="199" width="977" height="73" fill="#f2f4f1"/>
+  <text x="258" y="227" fill="#717771" font-family="Arial" font-size="11">TUESDAY, 12 MARCH 2024</text>
+  <text x="258" y="254" fill="#202321" font-family="Arial" font-size="21" font-weight="bold">Good morning, Rodlyta</text>
+  <rect x="231" y="294" width="300" height="116" fill="#fff" stroke="#e8eae7"/>
+  <text x="253" y="325" fill="#777d78" font-family="Arial" font-size="12">TOTAL VOLUME</text>
+  <text x="253" y="371" fill="#202321" font-family="Arial" font-size="31" font-weight="bold">$48,294.00</text>
+  <text x="253" y="394" fill="#688274" font-family="Arial" font-size="11">↗ 12.8% from last month</text>
+  <rect x="549" y="294" width="300" height="116" fill="#fff" stroke="#e8eae7"/>
+  <text x="571" y="325" fill="#777d78" font-family="Arial" font-size="12">SUCCESSFUL PAYMENTS</text>
+  <text x="571" y="371" fill="#202321" font-family="Arial" font-size="31" font-weight="bold">2,481</text>
+  <text x="571" y="394" fill="#688274" font-family="Arial" font-size="11">↗ 8.4% from last month</text>
+  <rect x="867" y="294" width="341" height="116" fill="#fff" stroke="#e8eae7"/>
+  <text x="889" y="325" fill="#777d78" font-family="Arial" font-size="12">ACTIVE CUSTOMERS</text>
+  <text x="889" y="371" fill="#202321" font-family="Arial" font-size="31" font-weight="bold">1,806</text>
+  <text x="889" y="394" fill="#688274" font-family="Arial" font-size="11">↗ 4.2% from last month</text>
+  <rect x="231" y="430" width="600" height="163" fill="#fff" stroke="#e8eae7"/>
+  <text x="254" y="459" fill="#272b28" font-family="Arial" font-size="13" font-weight="bold">Payment volume</text>
+  <text x="254" y="480" fill="#838983" font-family="Arial" font-size="10">Last 30 days</text>
+  <path d="M259 557h540M259 528h540M259 499h540" stroke="#eceeeb"/>
+  <path d="M270 548l53-29 54 12 54-45 54 19 54-33 54 25 54-47 54 26 54-38 54 18 54-37" fill="none" stroke="#414d45" stroke-width="3"/>
+  <rect x="848" y="430" width="360" height="163" fill="#fff" stroke="#e8eae7"/>
+  <text x="871" y="459" fill="#272b28" font-family="Arial" font-size="13" font-weight="bold">Recent payments</text>
+  <text x="871" y="496" fill="#777d78" font-family="Arial" font-size="10">CUSTOMER</text><text x="1045" y="496" fill="#777d78" font-family="Arial" font-size="10">AMOUNT</text>
+  <path d="M870 506h314M870 543h314M870 580h314" stroke="#eceeeb"/>
+  <text x="871" y="530" fill="#353a36" font-family="Arial" font-size="11">Maya Putri</text><text x="1045" y="530" fill="#353a36" font-family="Arial" font-size="11">$240.00  ✓</text>
+  <text x="871" y="567" fill="#353a36" font-family="Arial" font-size="11">Arif Nugraha</text><text x="1045" y="567" fill="#353a36" font-family="Arial" font-size="11">$86.50  ✓</text>
+  <path d="M694 643v86h-94v14h240v-14h-94v-86" fill="#a4a49f"/>
+  <rect x="490" y="739" width="450" height="11" rx="5" fill="#a4a49f"/>
+</svg>

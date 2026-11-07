@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675">
+  <rect width="900" height="675" fill="#e8e6e1"/>
+  <path d="M50 0v675M100 0v675M150 0v675M200 0v675M250 0v675M300 0v675M350 0v675M400 0v675M450 0v675M500 0v675M550 0v675M600 0v675M650 0v675M700 0v675M750 0v675M800 0v675M850 0v675" stroke="#d5d3ce" stroke-width="1"/>
+  <path d="M0 50h900M0 100h900M0 150h900M0 200h900M0 250h900M0 300h900M0 350h900M0 400h900M0 450h900M0 500h900M0 550h900M0 600h900M0 650h900" stroke="#d5d3ce" stroke-width="1"/>
+  <text x="66" y="83" fill="#292b29" font-family="Arial" font-size="12" letter-spacing="3">KRONOS OS / DESIGN SYSTEM</text>
+  <text x="66" y="162" fill="#171918" font-family="Arial" font-size="52" font-weight="bold">SYSTEM TYPOGRAPHY</text>
+  <text x="66" y="208" fill="#292b29" font-family="Arial" font-size="28">Grid hierarchy &amp; telemetry</text>
+  <text x="66" y="295" fill="#222422" font-family="Arial" font-size="72">Aa Bb Gg</text>
+  <text x="66" y="332" fill="#555955" font-family="Arial" font-size="17">ABCDEFGHIJKLMN OPQRSTUVWXYZ</text>
+  <text x="66" y="361" fill="#555955" font-family="Arial" font-size="17">abcdefghijklmno pqrstuvwxyz 012345</text>
+  <path d="M64 390h524" stroke="#666963"/>
+  <text x="66" y="431" fill="#303330" font-family="Arial" font-size="20">Display / Regular</text>
+  <text x="66" y="463" fill="#585c57" font-family="Arial" font-size="14">The quick brown fox jumps over the lazy dog.</text>
+  <text x="66" y="495" fill="#303330" font-family="Arial" font-size="20">Body / Medium</text>
+  <text x="66" y="527" fill="#585c57" font-family="Arial" font-size="14">A quiet interface for uninterrupted work.</text>
+  <path d="M620 72v530" stroke="#8c8d87"/>
+  <text x="652" y="108" fill="#343633" font-family="Arial" font-size="13">LIVE TELEMETRY</text>
+  <text x="652" y="156" fill="#1a1b19" font-family="Arial" font-size="28">14:32:08</text>
+  <text x="652" y="183" fill="#696c66" font-family="Arial" font-size="12">THURSDAY / 24 OCT</text>
+  <path d="M652 216h188" stroke="#999a94"/>
+  <text x="652" y="259" fill="#383a37" font-family="Arial" font-size="13">CPU</text><text x="802" y="259" fill="#383a37" font-family="Arial" font-size="13">18%</text>
+  <text x="652" y="292" fill="#383a37" font-family="Arial" font-size="13">MEMORY</text><text x="802" y="292" fill="#383a37" font-family="Arial" font-size="13">62%</text>
+  <text x="652" y="325" fill="#383a37" font-family="Arial" font-size="13">NETWORK</text><text x="802" y="325" fill="#383a37" font-family="Arial" font-size="13">STABLE</text>
+  <path d="M652 366h188" stroke="#999a94"/>
+  <text x="652" y="407" fill="#343633" font-family="Arial" font-size="13">STATUS INDICATORS</text>
+  <text x="652" y="446" fill="#555955" font-family="Arial" font-size="13">●  Connected</text>
+  <text x="652" y="478" fill="#555955" font-family="Arial" font-size="13">●  Battery 86%</text>
+  <text x="652" y="510" fill="#555955" font-family="Arial" font-size="13">●  Focus active</text>
+  <text x="652" y="591" fill="#777a74" font-family="Arial" font-size="11" letter-spacing="2">SPACING / 08 — 16 — 24 — 48</text>
+</svg>
