@@ -45,8 +45,7 @@ body {
   height: clamp(5.5rem, 12vw, 10rem);
   overflow: hidden;
   isolation: isolate;
-  opacity: 0.76;
-  transition: opacity 400ms ease;
+  opacity: 0.68;
 }
 
 .line-marquee::before,
@@ -70,17 +69,13 @@ body {
   background: linear-gradient(270deg, #f7f7f5, transparent);
 }
 
-.line-marquee:hover {
-  opacity: 1;
-}
-
 .line-marquee-track {
   position: absolute;
   inset: 0 auto 0 0;
   display: flex;
   width: max-content;
   height: 100%;
-  animation: line-drift 54s linear infinite;
+  animation: line-drift 76s linear infinite;
 }
 
 .line-marquee-track svg {
@@ -89,36 +84,26 @@ body {
   flex: none;
   overflow: visible;
   fill: none;
-  stroke: #b6b8b4;
-  stroke-width: 1;
+  stroke: #aeb0ac;
+  stroke-width: 0.85;
+  stroke-linecap: round;
+  stroke-linejoin: round;
   vector-effect: non-scaling-stroke;
-  transform-origin: center;
-  transition: stroke 400ms ease, stroke-width 400ms ease, transform 600ms ease;
 }
 
 .line-marquee-track svg path:nth-child(even) {
-  stroke: #d3d4d0;
+  stroke: #c4c6c2;
 }
 
 .line-marquee-track-reverse {
   animation-name: line-drift-reverse;
-  animation-duration: 68s;
-  opacity: 0.7;
+  animation-duration: 92s;
+  opacity: 0.58;
 }
 
 .line-marquee-track-reverse svg {
-  stroke: #cacbc7;
-  stroke-width: 0.8;
-}
-
-.line-marquee:hover .line-marquee-track {
-  animation-duration: 36s;
-}
-
-.line-marquee:hover .line-marquee-track svg {
-  stroke: #898c88;
-  stroke-width: 1.2;
-  transform: scaleY(1.04);
+  stroke: #aeb1ad;
+  stroke-width: 0.7;
 }
 
 .image-mat {
